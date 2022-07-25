@@ -1,1 +1,1 @@
-# claim-rewards
+# rewards
